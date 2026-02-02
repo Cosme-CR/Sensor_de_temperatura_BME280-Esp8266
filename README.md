@@ -32,7 +32,7 @@ A comunicação entre o ESP8266 e o sensor BME280 é feita via barramento I²C.
 
 Imagem ilustrativa do circuito:
 
-![Circuito do projeto](circuito.png)
+![Circuito do projeto](Circuito.jpg)
 
 ---
 
